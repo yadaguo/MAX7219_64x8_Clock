@@ -32,8 +32,8 @@ MD_Parola P = MD_Parola(HARDWARE_TYPE, DATA_PIN, CLK_PIN, CS_PIN, MAX_DEVICES);
 
 
 //********** WiFi Setting ******************
-const char *ssid = "10-3A";           // 改成自家WIFI SSID
-const char *password = "13713813991"; // 密码
+const char *ssid = "xxxxxx";           // 改成自家WIFI SSID
+const char *password = "xxxxxxxxx"; // 密码
 const char *NTPServer = "cn.pool.ntp.org";
 const int gmtOffset_sec = 28800; // 8*3600
 
